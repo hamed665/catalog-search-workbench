@@ -1,0 +1,20 @@
+[
+  {
+    "query": "dog brush",
+    "relevant_ids": [
+      "p1"
+    ]
+  },
+  {
+    "query": "travel carrier",
+    "relevant_ids": [
+      "p2"
+    ]
+  },
+  {
+    "query": "فرشاة",
+    "relevant_ids": [
+      "p4"
+    ]
+  }
+]
